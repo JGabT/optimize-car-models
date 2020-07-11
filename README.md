@@ -7,8 +7,8 @@ Add vehicles on the main client.lua file and find the local custommodels
 example :
 local custommodels = 
 {
-	      "fulux63",
-	      "civicek9rb",
+	"fulux63",
+	"civicek9rb",
         "maj350",
         "rx7veilside",
         "rx7tunable",

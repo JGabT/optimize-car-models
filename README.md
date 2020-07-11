@@ -8,7 +8,7 @@ example :
 local custommodels = 
 {
 	"fulux63",
-	"civicek9rb",
+	 "civicek9rb",
         "maj350",
         "rx7veilside",
         "rx7tunable",
